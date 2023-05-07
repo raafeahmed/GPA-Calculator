@@ -1,0 +1,29 @@
+CREATE Semester1
+INSERT INTO Semester1 4 entries
+Anthro_101 A 3
+Econ_101 A 3
+CalculusI A- 4
+Phil_232 A 3
+CREATE Semester2
+INSERT INTO Semester2 3 entries
+SpanishI B 4
+EECS_183 B+ 4
+Physics_125 C 4
+CREATE Semester3 
+Insert INTO Semester3 4 entries
+SpanishII C+ 4
+Stats_250 A- 4
+History_200 B- 3
+English_125 A 3
+PRINT semester gpa FROM Semester1
+PRINT semester gpa FROM Semester2
+Print semester gpa FROM Semester3
+PRINT cumulative gpa FROM 2 semesters: Semester1 Semester2
+PRINT cumulative gpa ALL
+DELETE FROM Semester2 WHERE grade = C
+DELETE FROM Semester3 WHERE credits = 3
+DELETE FROM Semester1 WHERE course = CalculusI
+PRINT semester gpa FROM Semester1
+PRINT cumulative gpa ALL
+REMOVE Semester2
+QUIT
