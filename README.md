@@ -1,3 +1,3 @@
-#GPA Calculator
+GPA Calculator
 ==============
 By Raafe Ahmed
