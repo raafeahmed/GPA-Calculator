@@ -1,3 +1,2 @@
-GPA Calculator
-==============
-By Raafe Ahmed
+#GPA Calculator
+
