@@ -8,7 +8,7 @@ The program reads in various commands through an interactive shell. The followin
 - CREATE **semester name*
     - The program supports the creation of a semester table, which organizes and manages course information effectively. Each entry in the table consists of the course name, grade, and credit hours, facilitating convenient data entry and retrieval.
 - INSERT INTO **semester name* **number of entries* entries
-    - inserts specified number of entries into the specific semester
+    - Inserts specified number of entries into the specific semester
     - An entry is defined as: **course name* **letter grade* **credits*
 - PRINT semester gpa FROM **semester name*
 - PRINT cumulative gpa <ALL | FROM > **number of semesters* semesters: **semester name* **semester name*...
