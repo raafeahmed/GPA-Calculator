@@ -4,7 +4,7 @@ GPA calculation tool designed to efficiently calculate and manage semester and c
 
 Functionalities
 =============
-The program reads in various commands through an interactive shell. The following is the specific syntax needed for the program to run correctly:
+The program reads in various commands through an interactive shell. The following is the specific syntax needed for the program to run correctly(see sample.txt for an example):
 - CREATE **semester name*
     - The program supports the creation of a semester table, which organizes and manages course information effectively. Each entry in the table consists of the course name, grade, and credit hours, facilitating convenient data entry and retrieval.
 - INSERT INTO **semester name* **number of entries* entries
