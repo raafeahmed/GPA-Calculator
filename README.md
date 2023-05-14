@@ -2,7 +2,7 @@ GPA Calculator
 ==============
 GPA calculation tool designed to efficiently calculate and manage semester and cumulative GPAs.
 
-Functionalities
+How to use
 =============
 The program reads in various commands through an interactive shell. The following is the specific syntax needed for the program to run correctly(see sample.txt for an example):
 - CREATE **semester name*
