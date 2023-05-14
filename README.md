@@ -14,7 +14,7 @@ The program reads in various commands through an interactive shell. The followin
 - PRINT cumulative gpa <ALL | FROM > **number of semesters* semesters: **semester name* **semester name*...
     - The GPA Calculator offers flexible reporting options. Users can obtain detailed information, such as the semester GPA, total credits, quality points, and cumulative GPA for specified semesters or for all semesters stored in the transcript.
 - DELETE FROM **semester name* WHERE <course | grade | credits> = **specified entry type*
-    - To provide efficient data management, I have implemented a feature that allows users to delete specific entries based on course name, grade, or credit hours. The program ensures accurate recalculation of semester credits, quality points, and GPA after the deletion.
+    - To provide efficient data management, users can delete specific entries based on course name, grade, or credit hours. The program ensures accurate recalculation of semester credits, quality points, and GPA after the deletion.
 - REMOVE **semester name*
     - Removes all semester data from the transcript
 - QUIT
