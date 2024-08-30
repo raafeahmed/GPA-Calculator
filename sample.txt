@@ -5,16 +5,18 @@ Econ_101 A 3
 CalculusI A- 4
 Phil_232 A 3
 CREATE Semester2
-INSERT INTO Semester2 3 entries
+INSERT INTO Semester2 4 entries
 SpanishI B 4
 EECS_183 B+ 4
 Physics_125 C 4
+Physics_126 P 4
 CREATE Semester3 
-Insert INTO Semester3 4 entries
+Insert INTO Semester3 5 entries
 SpanishII C+ 4
 Stats_250 A- 4
 History_200 B- 3
 English_125 A 3
+Phil101 W 0
 PRINT semester gpa FROM Semester1
 PRINT semester gpa FROM Semester2
 Print semester gpa FROM Semester3

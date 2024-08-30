@@ -1,27 +1,32 @@
 % New semester Semester1 created
 % Inserted 4 entries into Semester1
 % New semester Semester2 created
-% Inserted 3 entries into Semester2
+% Inserted 4 entries into Semester2
 % New semester Semester3 created
-% Inserted 4 entries into Semester3
+% Inserted 5 entries into Semester3
 % Semester1 total:
 Credits: 13
+MSH: 13
 Quality points: 50.8
 GPA: 3.908
 % Semester2 total:
-Credits: 12
+Credits: 16
+MSH: 12
 Quality points: 33.2
 GPA: 2.767
 % Semester3 total:
 Credits: 14
+MSH: 14
 Quality points: 44.1
 GPA: 3.15
 % Cumulative total for Semester1 Semester2 
-Credits: 25
+Credits: 29
+MSH: 25
 Quality points: 84
 GPA: 3.36
 % Cumulative total:
-Credits: 39
+Credits: 43
+MSH: 39
 Quality points: 128.1
 GPA: 3.285
 % Deleted 1 entries from Semester2
@@ -29,10 +34,12 @@ GPA: 3.285
 % Deleted 1 entries from Semester1
 % Semester1 total:
 Credits: 9
+MSH: 9
 Quality points: 36
 GPA: 4
 % Cumulative total:
-Credits: 25
+Credits: 29
+MSH: 25
 Quality points: 85.2
 GPA: 3.408
 % Removed Semester2

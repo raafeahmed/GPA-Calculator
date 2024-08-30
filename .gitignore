@@ -10,6 +10,8 @@ main
 *.exe
 *.dSYM
 *.stackdump
+*.ob
+calculate
 
 # Visual debugger configurations
 .vscode/
