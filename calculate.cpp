@@ -87,7 +87,7 @@ void GPA::readInput()
             break;
         default:
             std::cout << "Error: unrecognized command\n";
-            getline(std::cin, command);
+            exit(1);
         }
     } while (command != "QUIT");
 
